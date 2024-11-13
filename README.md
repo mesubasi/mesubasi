@@ -3,7 +3,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=mesubasi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 🔭 I’m currently working on **my-portfolio, pos-application, online education platform, rss source, blog website backend **
+- 🔭 I’m currently working on **my-portfolio, pos-application, online education platform, rss source, blog website backend**
 
 - 🌱 I’m currently learning **MERN, Flutter, NestJS, Spring**
 
